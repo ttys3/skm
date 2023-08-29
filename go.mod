@@ -11,7 +11,7 @@ require (
 	github.com/manifoldco/promptui v0.3.0
 	github.com/mattn/go-colorable v0.0.9 // indirect
 	github.com/mattn/go-isatty v0.0.3 // indirect
-	golang.org/x/sys v0.0.0-20180622082034-63fc586f45fe // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127 // indirect
 	gopkg.in/urfave/cli.v1 v1.20.0
 )
